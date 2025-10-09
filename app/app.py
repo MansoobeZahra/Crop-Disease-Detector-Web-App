@@ -14,7 +14,7 @@ output_details = interpreter.get_output_details()
 
 # Class names mapping
 class_names = [
-    'Corn Common Rust', 'Corn Gray Leaf', 'Corn Healthy', 'Corn Northern Leaf Blight',
+    'Corn Common Rust', 'Corn Grey Leaf', 'Corn Healthy', 'Corn Northern Leaf Blight',
     'Potato Early Blight', 'Potato Healthy', 'Potato Late Blight',
     'Rice Brown Spot', 'Rice Healthy', 'Rice Leaf Blast', 'Rice Neck Blast',
     'Wheat Brown Rust', 'Wheat Healthy', 'Wheat Yellow Rust'
