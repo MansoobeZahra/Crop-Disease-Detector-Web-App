@@ -101,9 +101,11 @@ Then open your browser at `http://127.0.0.1:5000/`
 **Mansoob-e-Zahra**
 🎓 BS Computer & Information Sciences
 🔗 [LinkedIn](https://www.linkedin.com/in/mansoobezehra) | [GitHub](https://github.com/MansoobeZahra) | [Kaggle](https://www.kaggle.com/MansoobeZehra)
+
 **Syed Darain Hyder Kazmi**
 🎓 BS Computer & Information Sciences
 🔗 [LinkedIn](https://www.linkedin.com/in/syed-darain-hyder-kazmi-a45a70306) | [GitHub](https://github.com/DarainHyder) | [Kaggle](https://www.kaggle.com/sawabedarain)
+
 **Adbul Sami**
 🎓 BS Computer & Information Sciences
 🔗 [LinkedIn](https://www.linkedin.com/in/syed-darain-hyder-kazmi-a45a70306) 
